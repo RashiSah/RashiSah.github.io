@@ -18,11 +18,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: rashi.747@gmail.com
-  facebook: rashi.sah.5
-  flickr:
-  github: RashiSah
   instagram: the_otherworld/?hl=en
+  facebook: rashi.sah.5
+  github: RashiSah
+  email: rashi.747@gmail.com
+  flickr:
+
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
