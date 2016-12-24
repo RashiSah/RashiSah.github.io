@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! Myself Rashi. I’m pursuing my Bachelor's degree in Computer Science from National Institute of technology, Hamirpur.
+I like travelling, reading, listening to music, spending hours reading stuff on Quora.
+I love music and photography as well.
+I am passionate for programming. It is bringing a great change worldwide, technology is changing the face of education.
 
-### More Information
 
-You can contact me here
+### You can contact me here:-
 
-### Contact me
-
-[email@domain.com](mailto:rashi.747@gmail.com)
+[email.domain](mailto:rashi.747@gmail.com)
