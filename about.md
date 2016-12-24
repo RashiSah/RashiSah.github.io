@@ -12,4 +12,4 @@ I am passionate for programming. It is bringing a great change worldwide, techno
 
 ### You can contact me here:-
 
-[email.domain](mailto:rashi.747@gmail.com)
+[rashi.747@gmail.com](mailto:rashi.747@gmail.com)
