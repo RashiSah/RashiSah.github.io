@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-Hello! Myself Rashi. I’m pursuing my Bachelor's degree in Computer Science from National Institute of technology, Hamirpur.
+Hello! Myself Rashi. I’m pursuing my Bachelor's degree in Computer Science from National Institute of Technology, Hamirpur.
 I like travelling, reading, listening to music, spending hours reading stuff on Quora.
 I love music and photography as well.
 I am passionate for programming. It is bringing a great change worldwide, technology is changing the face of education.
