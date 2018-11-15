@@ -15,6 +15,6 @@ Here I would like to share some of my clicked photos-
 
 ![nature](/images/deptt.jpg)
 
-![nature](/images/)
+![nature](/images/road.jpg)
 
-![nature](/images/)
+![nature](/images/cloud.jpg)
