@@ -5,7 +5,7 @@ title: Is it possible to live 100%  in a linux shell??
 
  Yay!  The answer is "Yes"
  
- ![linuxx](/images/linuxx.png.jpg)
+ ![linuxx](/images/linuxx.png)
  
 Here, I would to share a little one day story of Bryan Lunduke, who is a writer and works as the Social Media Marketing Manager of SUSE. He once took a challenge to use nothing but a Linux terminal for 30 days. First Day experience , Here is what he wrote about his Day 1:
 
