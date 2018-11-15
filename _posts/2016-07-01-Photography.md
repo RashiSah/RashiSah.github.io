@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Photography: capturing_moments
+title: Photography- capturing_moments!
 ---
 
 ![eat](/images/eating.jpg)
