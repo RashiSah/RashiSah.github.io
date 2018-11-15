@@ -14,24 +14,22 @@ avatar: http://s6.favim.com/610/151126/anime-girl-blue-Favim.com-3651676.jpg
 #
 # Flags below are optional
 #
-
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  instagram: the_otherworld/?hl=en
+  instagram: the_otherworld
   facebook: rashi.sah.5
   github: rsh7
   email: rashi.747@gmail.com
   flickr:
-  wordpress: episodesoflifeblog
+  wordpress:
   linkedin: rashisah
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: RSS
   twitter: little_rsh
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
-
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -85,4 +83,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  - vendor
