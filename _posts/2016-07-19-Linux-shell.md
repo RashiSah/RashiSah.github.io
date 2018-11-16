@@ -65,9 +65,9 @@ Pandoc to the rescue! This puppy converts just about every document format I can
 
 So far, so good. Day 1 is complete, and I was actually able to get real work done. But as I continue researching ways to accomplish various tasks, there are a few challenges looming on the horizon that I simply don’t have solutions for. Yet.
 
-    * How on Earth am I going to edit an image? I’m in a freaking text-based terminal.
-    * I already miss YouTube. I wonder if there’s some way to stream YouTube clips, translated to ASCII somehow. It sounds ridiculous, I know, but it seems possible.
-    * I have solutions for most social media (more on that tomorrow as I fine-tune things), but using GooglePlus via w3m or lynx is downright painful. I need to find a better way.
+* How on Earth am I going to edit an image? I’m in a freaking text-based terminal.
+* I already miss YouTube. I wonder if there’s some way to stream YouTube clips, translated to ASCII somehow. It sounds ridiculous, I know, but it seems possible.
+* I have solutions for most social media (more on that tomorrow as I fine-tune things), but using GooglePlus via w3m or lynx is downright painful. I need to find a better way.
 
 But those are problems for the days to come.
 
